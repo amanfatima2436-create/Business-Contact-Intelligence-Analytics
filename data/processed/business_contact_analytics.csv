@@ -1,0 +1,100 @@
+law_firms_name,website,address,phone_number,first_name,last_name,title,email,contact_completeness,is_senior_contact,lead_quality_score,lead_quality,normalized_company_name,enrichment_priority
+Werman Salas P.C.,https://www.flsalaw.com/,"Chicago, Illinois, US",13124191008,Douglas,Werman,Managing Shareholder,dwerman@flsalaw.com,2,True,9,High Quality Lead,wermansalaspc,Low Priority
+Tycko & Zavareei LLP,https://www.tzlegal.com/,"Washington,Coulumbia",13013206330,Jonathan,Tyco,Partner,jtycko@tzlegal.com,2,True,9,High Quality Lead,tyckozavareeillp,Low Priority
+Goodwin Procter LLP,https://www.goodwinlaw.com/,"Edinburgh Tower, HK",12149299013,Pamela,Goodwin,CEO,pam@pamgoodwin.com,2,True,9,High Quality Lead,goodwinprocterllp,Low Priority
+O'Melveny & Myers LLP,https://www.omm.com/locations/,"New York, US",19175972965,Bradley,Butwin,Chair,bbutwin@omm.com,2,True,9,High Quality Lead,omelvenymyersllp,Low Priority
+Seyfarth Shaw LLP,https://www.seyfarth.com/,"Chicago, Illinois, US",12132709696,Alan,Yoshitake,Partner,ayoshitake@seyfarth.com,2,True,9,High Quality Lead,seyfarthshawllp,Low Priority
+Eversheds Sutherland (US) LLP,https://www.eversheds-sutherland.com,"London,England",+17134706100,Kathryn,Roberts,Chair,kathrynroberts@eversheds.com,2,True,9,High Quality Lead,evershedssutherlandusllp,Low Priority
+Barton & Downes LLP,https://www.thebartonfirm.com/,"Washington,Coulumbia",12027345458,R Joseph,Barton,Partner,jbarton@thebartonfirm.com,2,True,9,High Quality Lead,bartondownesllp,Low Priority
+Skadden Arps Slate Meagher & Flom LLP,https://www.skadden.com/,"Now York, US",12127352204,Eric,Friedman,CEO,eric.friedman@skadden.com,2,True,9,High Quality Lead,skaddenarpsslatemeagherflomllp,Low Priority
+Carr Maloney P.C.,https://www.carrmaloney.com/,"Washington,Coulumbia",17742395598,Steven,Thebodo,Managing Partner,steventhebodo@yahoo.com,2,True,9,High Quality Lead,carrmaloneypc,Low Priority
+"Bertram Law Group, PLLC",https://www.blg-dc.com/,"Washington,Coulumbia",12024941924,Katie,Bertram,Founding Partner,katie@blg-dc.com,2,True,9,High Quality Lead,bertramlawgrouppllc,Low Priority
+Bienstock PLLC,https://www.bienstockpllc.com/,"Wasington,US",12027311204,Martin,Bienstock,Partner,bieny1@gmail.com,2,True,9,High Quality Lead,bienstockpllc,Low Priority
+Jones Day,https://www.jonesday.com/en/locations,"Wasington,US",12028793824,Karl,Kellar,Owner,klkellar@jonesday.com,2,True,9,High Quality Lead,jonesday,Low Priority
+Fox Rothschild LLP,https://www.foxrothschild.com/,"Exton, Pennsylvania,US",16104584978,Todd,Rodriguez,Firmwide Director,rodriguez@foxrothschild.com,2,True,9,High Quality Lead,foxrothschildllp,Low Priority
+Williams & Connolly LLP,https://www.wc.com/,"Washington,Coulumbia",17038193112,Mark,Levinstein,Attorney,mlevinstein@wc.com,2,False,6,Medium Quality Lead,williamsconnollyllp,Low Priority
+Zelle LLP,https://www.zellelaw.com/,"Dallas, Texas",12145577385,Brad,Brewer,Owner,,1,True,7,Medium Quality Lead,zellellp,Medium Priority
+Dickinson Wright PLLC,https://www.dickinson-wright.com/,"Michigan, United States",12145777002,Mike,Hammer,CEO,mhammer@dickinson-wright.com,2,True,9,High Quality Lead,dickinsonwrightpllc,Low Priority
+McGuireWoods LLP,https://www.mcguirewoods.com/,"Virginia, United States",17037125469,Stephen,Robinson,Owner,swrobinson@mcguirewoods.com,2,True,9,High Quality Lead,mcguirewoodsllp,Low Priority
+Hollingsworth LLP,https://hollingsworthllp.com/,"Wasington,US",12028985842,Jeo,G.Hollingsworth,Founder/Partner,jhollingsworth@hollingsworthllp.com,2,True,9,High Quality Lead,hollingsworthllp,Low Priority
+"Wilson, Elser, Moskowitz, Edelma n & Dicker LLP",https://www.wilsonelser.com/,"Pennsylvania, US",12156276900,Louis,Isaacsohn,Owner,louis.isaacsohn@wilsonelser.com,2,True,9,High Quality Lead,wilsonelsermoskowitzedelmandickerllp,Low Priority
+Burns Charest LLP,https://burnscharest.com/,"Texas, United States",14699044550,Daniel,Charest,Managing Partner,dcharest@burnscharest.com,2,True,9,High Quality Lead,burnscharestllp,Low Priority
+Duddy & Czarnecki PLLC,https://www.duddyczarnecki.com/,"Chicago, Illinois, US",12027717978,Sean,Duddy,Founder/Partner,skd@duddyczarnecki.com,2,True,9,High Quality Lead,duddyczarneckipllc,Low Priority
+Outten & Golden LLP,https://www.outtengolden.com/,"New York, US",12122451000,Adam,Klein,Managing Partner,aklein@outtengolden.com,2,True,9,High Quality Lead,outtengoldenllp,Low Priority
+Levi & Korsinsky LLP,https://zlk.com/,"New York, US",12123637500,Eduard,Korsinsky,Managing Partner,ekorsinsky@zlk.com,2,True,9,High Quality Lead,levikorsinskyllp,Low Priority
+Crowell & Moring LLP,https://www.crowell.com/en/locations,Qatar,97444532501,Charbel,Maakaron,Managing Partner,cmaakaron@crowell.com,2,True,9,High Quality Lead,crowellmoringllp,Low Priority
+Fay Law Group PLLC,https://www.faylawpa.com/,"Wasington,US",2022634604,Caragh,Fay,Attorney,caraghfay@gmail.com,2,False,6,Medium Quality Lead,faylawgrouppllc,Low Priority
+The Law Offices of Kenneth R. Feinberg PC,https://feinberglawoffices.com/,"Wasington,US",2023711110,Ken,Feinberg,Attorney,kfeinberg@thefeinberggroup.com,2,False,6,Medium Quality Lead,thelawofficesofkennethrfeinbergpc,Low Priority
+Covington & Burling LLP,https://www.cov.com/en/offices/washington,"Wasington,US",2026626000,Douglas,Gibson,Coperate partner,ambushbass@aol.com,2,True,9,High Quality Lead,covingtonburlingllp,Low Priority
+"Carlton Fields, P.A.",https://www.carltonfields.com/,"Florida, US",8132237000,Gary,Sasso,President/CEO,glsasso@aol.com,2,True,9,High Quality Lead,carltonfieldspa,Low Priority
+Sidley Austin LLP,https://www.sidley.com/en/us/,"Virginia, United States",12027368000,Mark,Schneider,Owner,mschneid@sidley.com,2,True,9,High Quality Lead,sidleyaustinllp,Low Priority
+Keller Postman LLC,https://www.kellerpostman.com/,"Virginia, United States",2029181870,Warren,Postman,Managing Partner,wdp@kellerpostman.com,2,True,9,High Quality Lead,kellerpostmanllc,Low Priority
+Cohen Milstein Sellers & Toll PLLC,https://www.cohenmilstein.com/,"Wasington,DC",2024084600,Benjamin,Brown,Managing Partner,information@cohenmilstein.com,2,True,9,High Quality Lead,cohenmilsteinsellerstollpllc,Low Priority
+"Friedman Law Offices, P.L.L.C.",https://www.friedmanlaw.com/,"California, US",8187071488,Heywood,G. Friedman,Founder/Partner,heywood@friedmanlawoffices.com,2,True,9,High Quality Lead,friedmanlawofficespllc,Low Priority
+DLA Piper LLP (US),https://www.dlapiper.com/en/,"Georgia, US",,Gerry,Williams,CO Managing Partner,glw1906@icloud.com,1,True,7,Medium Quality Lead,dlapiperllpus,Medium Priority
+Hausfeld,https://www.hausfeld.com/,"Wasington, DC",,Melinda,Coolidge,US Managing Partner,,0,True,5,Medium Quality Lead,hausfeld,High Priority
+Dueffert Gilbertsen PLLC,http://www.dueffertlaw.com/,"Wasington, DC",,Tom,Gilbertsen,Partner,tom@gilbertsenlaw.com,1,True,7,Medium Quality Lead,dueffertgilbertsenpllc,Medium Priority
+The Dominguez Firm - Personal Injury Lawyers,https://dominguezfirm.com/locations/los-angeles/,Los Angeles,2133887788,Juan,J.Dominguez,CEO/Founder,jdominguez@dominguezfirm.com,2,True,9,High Quality Lead,thedominguezfirmpersonalinjurylawyers,Low Priority
+"Ultimate Law Firm, APC",http://www.theultimatelawfirm.com/,Los Angeles,9513538000,Craig,Johnson,Managing Partner,cjohnson@johnsonlawapc.com,2,True,9,High Quality Lead,ultimatelawfirmapc,Low Priority
+Custodio & Dubey - CD Law,https://www.cd-lawyers.com/,"California, US",2135237439,Vineet,Dubey,Partner,dubey@cd-lawyers.com,2,True,9,High Quality Lead,custodiodubeycdlaw,Low Priority
+West Coast Trial Lawyers,https://westcoasttriallawyers.com/,"California, US",2139273701,Neama,Rahmani,Partner,nr@westcoasttriallawyers.com,2,True,9,High Quality Lead,westcoasttriallawyers,Low Priority
+Heidari Law Group,https://www.heidarilawgroup.com,"Nevada, US",13105933015,Sam,Ryan Heidari,Attorney,heidarisaman@yahoo.com,2,False,6,Medium Quality Lead,heidarilawgroup,Low Priority
+California Attorney Group,https://www.californiaattorneygroup.com/,"California, US",18189813712,Michael,Brown,Managing Partner,jaystyranka@mac.com,2,True,9,High Quality Lead,californiaattorneygroup,Low Priority
+Belal Hamideh Law,https://belalhamidehlaw.com/,"Lomita, US",12133356282,Belal,Hamideh,Attorney,belalhamideh@gmail.com,2,False,6,Medium Quality Lead,belalhamidehlaw,Low Priority
+KJT Law Group,https://www.kjtlawgroup.com/glendale/,Los Angeles,8183503113,Vache,Thomassian,Founding Partner,info@progress-analytics.com,2,True,9,High Quality Lead,kjtlawgroup,Low Priority
+"Frost Law Firm, PC",https://www.frostlawfirm.com/,Atlanta,2026181873,Justin,Elanjian,Managing Director,justin.elanjian@frosttaxlaw.com,2,True,9,High Quality Lead,frostlawfirmpc,Low Priority
+Scarlett Law Group,https://www.scarlettlawgroup.com/,"San Francisco, US",+14153526264,Randall,Scarlett,Owner,rscarlett@scarlettlawgroup.com,2,True,9,High Quality Lead,scarlettlawgroup,Low Priority
+"Bisnar Chase Personal Injury Attorneys, LLP",https://www.bestattorney.com/los-angeles/,"California, US",13232384683,Brian,Chase,Partner,brianchaselaw@gmail.com,2,True,9,High Quality Lead,bisnarchasepersonalinjuryattorneysllp,Low Priority
+"The Ruttenberg Law Firm, PC",https://www.laharassmentfirm.com/,"California, US",13109797080,Ken,Ruttenberg,Founder/Attorney,kruttenberg@trgllp.com,2,True,9,High Quality Lead,theruttenberglawfirmpc,Low Priority
+The Cifarelli Law Firm,https://www.cifarelliinjurylaw.com/,"California, US",19495028600,Thomas,Cifarelli,Owner,tomc@cifarellilaw.com,2,True,9,High Quality Lead,thecifarellilawfirm,Low Priority
+Bojat Law Group,https://www.bojatlaw.com/,Los Angeles,13107468546,Sasha,Bojat Esq.,Founder,sashabojat@gmail.com,2,True,9,High Quality Lead,bojatlawgroup,Low Priority
+The Capital Law Firm,https://capfirm.com/,Los Angeles,13106669782,Joshua,Zokaeem,Managing Partner,josh@capfirm.com,2,True,9,High Quality Lead,thecapitallawfirm,Low Priority
+"MKP Law Group, LLP",https://www.mkplawgroup.com/,"California, US",13109628160,Jordan,Peagler,Partner,jpeagler@mkplawgroup.com,2,True,9,High Quality Lead,mkplawgroupllp,Low Priority
+Banafshe Law Firm,http://www.banalaw.com/,"California, US",13104870304,Payum,Banafshe,Managing Partner,pb@banalaw.com,2,True,9,High Quality Lead,banafshelawfirm,Low Priority
+"McNicholas & McNicholas, LLP",https://www.mcnicholaslaw.com/,"California, US",13104741582,Matthew,McNicholas,Owner,cnabholz@gmail.com,2,True,9,High Quality Lead,mcnicholasmcnicholasllp,Low Priority
+ME Lawyers,https://www.melawyers.com/,Los Angeles,13109136800,Michael,J.Emrani,Attorney,mike@emranilawyers.com,2,False,6,Medium Quality Lead,melawyers,Low Priority
+LA Century Law,https://lacenturylaw.com/,Los Angeles,18186331205,Ryan,Daneshard Esq.,Attorney,ryan@lacenturylaw.com,2,False,6,Medium Quality Lead,lacenturylaw,Low Priority
+Wilshire Law Firm,https://wilshirelawfirm.com/locations/los-angeles-california/,Los Angeles,13107703292,Bobby,Saadian,Founder,bobby@wilshirelawfirm.com,2,True,9,High Quality Lead,wilshirelawfirm,Low Priority
+El Dabe Ritter Trial Lawyers,https://www.erlawyers.com/,Los Angeles,13105924430,S Edmond,EI Dabe,Personal Attorney,eldabe@erlawyers.com,2,False,6,Medium Quality Lead,eldaberittertriallawyers,Low Priority
+Morgan & Morgan,https://www.forthepeople.com/office-locations,"Florida, US",17323200749,John,Morgan,Founder/Owner,johnmorgan@forthepeople.com,2,True,9,High Quality Lead,morganmorgan,Low Priority
+"Slatter Law Firm, APC",https://slatterlawfirm.com/,Los Angeles,15109038841,Michael,Slater,Founding Partner,mslater@theslaterlawfirmapc.com,2,True,9,High Quality Lead,slatterlawfirmapc,Low Priority
+The L.A. Law Firm Accident Attorneys,http://www.thelalawfirm.com/,Los Angeles,18185541524,Alex,Sarajian,CEO,alex@lainjuryattorneys.com,2,True,9,High Quality Lead,thelalawfirmaccidentattorneys,Low Priority
+Jacoby & Meyers,https://www.jacobyandmeyers.com,Los Angeles,13108586863,Jacoby,Len,President,len@jacobymeyers.com,2,True,9,High Quality Lead,jacobymeyers,Low Priority
+Kluewer Law,https://www.googleadservices.com,Los Angeles,12136101139,Josh,Kluewer,CEO/President,jkluewer@kluewerlaw.com,2,True,9,High Quality Lead,kluewerlaw,Low Priority
+"C&B Law Group, LLP",https://www.cblawgroup.com/,Los Angeles,13109628660,Jack,Bazerkanian,Founding Partner,jack@cblawgroup.com,2,True,9,High Quality Lead,cblawgroupllp,Low Priority
+Yang Law Offices,http://www.yanglawoffices.com/,"California, US",19099965906,Elizabeth,Yang,CEO/Founder,elizabeth@yanglawoffices.com,2,True,9,High Quality Lead,yanglawoffices,Low Priority
+MSD Lawyers,https://msdlawyers.com/,"California, US",14154208789,Camron,Dowlatshahi,Partner,camrondowlatshahi@yahoo.com,2,True,9,High Quality Lead,msdlawyers,Low Priority
+Glotzer & Leib Personal Injury Lawyers - Los Angeles,https://www.socalpersonalinjurylawyer.com/,Los Angeles,13106233771,Joshua,Glotzer,Partner,glotzlaw@yahoo.com,2,True,9,High Quality Lead,glotzerleibpersonalinjurylawyerslosangeles,Low Priority
+Downtown La Law Group,https://downtownlalaw.com/,Los Angeles,13102790642,Daniel,Azizi,Attorney,daniel@downtownlalaw.com,2,False,6,Medium Quality Lead,downtownlalawgroup,Low Priority
+The Law Offices of Robert B. Sarvian APC,http://sarvianlaw.com/,Los Angeles,18185355652,Roberto,Sarvian,Owner,sarvian@att.net,2,True,9,High Quality Lead,thelawofficesofrobertbsarvianapc,Low Priority
+Moaddel Law Firm,http://www.mdlfirm.com/,Los Angeles,13239339500,Daniel,Moaddel,Criminal Attorney,dmoaddel@gmail.com,2,False,6,Medium Quality Lead,moaddellawfirm,Low Priority
+"Compass Law Group, LLP Injury and Accident Attorneys",https://cmplawgroup.com/contact,Arcadia,12133201001,Mathew,F,Attorney,falermatthew@gmail.com,2,False,6,Medium Quality Lead,compasslawgroupllpinjuryandaccidentattorneys,Low Priority
+Normandie Law Firm,http://www.losangelespersonalinjurylawyers.co/,"Miami,US",12136746170,Gerard,NORMANDIE,Manager,a@orbitquick.com,2,False,6,Medium Quality Lead,normandielawfirm,Low Priority
+Law Offices of Robert Lee,https://robertleelaw.com/,Hong Kong SRA,,Robert,Lee,Owner,robert@interasialawoffices.com,1,True,7,Medium Quality Lead,lawofficesofrobertlee,Medium Priority
+"Farahi Law Firm, APC",https://justinforjustice.com,"Torrence, US",13102103366,justin,Farahi,Principal Attorney,justinfarahi1@gmail.com,2,True,9,High Quality Lead,farahilawfirmapc,Low Priority
+Law Offices of Howard Kornberg,https://kornberglawfirm.com/,"California, US",13104661758,Howard,Kornberg,Owner,hck@kornberglaw.com,2,True,9,High Quality Lead,lawofficesofhowardkornberg,Low Priority
+"McMurray Henriks, LLP",https://www.mcmurrayhenriks.com/,Los Angeles,13104820107,Yana,henriks,Attorney,yhenriks@law-mh.com,2,False,6,Medium Quality Lead,mcmurrayhenriksllp,Low Priority
+The Matian Firm,https://thematianfirm.com/,Los Angeles,13108805684,Shawn,Matian,Attorney,shawn@unitedfirm.com,2,False,6,Medium Quality Lead,thematianfirm,Low Priority
+The Barnes Firm Injury Attorneys,https://www.thebarnesfirm.com,"Buffalo,US",16305147213,Richard,Barnes,President,rich.barnes@cellinoandbarnes.com,2,True,9,High Quality Lead,thebarnesfirminjuryattorneys,Low Priority
+TorkLaw,https://www.torklaw.com/,Los Angeles,13104398010,Reza,Torkzadeh,Injury Attorney,reza@torklaw.com,2,False,6,Medium Quality Lead,torklaw,Low Priority
+"Stewart J Guss, Injury Accident Lawyers - Los Angeles",https://attorneyguss.com/ca/los-angeles/,"Huoston, Texas",17134437220,Stewart,Guss,Owner,stewart@attorneyguss.com,2,True,9,High Quality Lead,stewartjgussinjuryaccidentlawyerslosangeles,Low Priority
+"The Sands Law Group, APLC",https://www.thesandslawgroup.com/,"Hawaii,US",13109038037,Thomas,Sands,Attorney,thomas@thesandslawgroup.com,2,False,6,Medium Quality Lead,thesandslawgroupaplc,Low Priority
+Downtown L.A. Law Group,http://downtownlalaw.com/,Los Angeles,13102790642,Daniel,Azizi,Attorney,daniel@downtownlalaw.com,2,False,6,Medium Quality Lead,downtownlalawgroup,Low Priority
+Samer Habbas & Associates - Personal Injury Attorneys,https://www.habbaspilaw.com/,"NewPort Beach, US",19495583421,Samer,Habbas,Partner,ssh@habbaspilaw.com,2,True,9,High Quality Lead,samerhabbasassociatespersonalinjuryattorneys,Low Priority
+Neale & Fhima,https://nealefhima.com,"Orange County, US",13108782061,Aaron,Fhima,Principal Owner,aaron@nealefhima.com,2,True,9,High Quality Lead,nealefhima,Low Priority
+"Nosratilaw, A Professional Law Corporation",https://www.nosratilaw.com/,Los Angeles,13103658141,Omid,Nosrati,Founder,omid@nosratilaw.com,2,True,9,High Quality Lead,nosratilawaprofessionallawcorporation,Low Priority
+Panish | Shea | Ravipudi LLP,https://www.panish.law/,Los Angeles,13108715155,Brian,Panish,Managing Partner,panish@panish.law,2,True,9,High Quality Lead,panishshearavipudillp,Low Priority
+"Rose, Klein & Marias",https://www.rkmlaw.net/,Los Angeles,12136260571,Richard,Barone,Owner,r.barone@rkmlaw.net,2,True,9,High Quality Lead,rosekleinmarias,Low Priority
+Ethen Ostroff Law,https://ethenostrofflaw.com/,"Pennsylvania, US",12157679477,Ethen,Ostroff,CEO/Founder,eo@ethenostrofflaw.com,2,True,9,High Quality Lead,ethenostrofflaw,Low Priority
+Rand Spear: The Lawyer,https://www.randspear.com/,"Pennsylvania, US",12156885488,Rand,Spear,Accident Attorney,rs@injuryline.com,2,False,6,Medium Quality Lead,randspearthelawyer,Low Priority
+"Marrone Law Firm, LLC",https://marronelaw.com/,"Pennsylvania, US",12157781310,Joseph,Marrone,Founding Partner,jmarrone@marronelaw.com,2,True,9,High Quality Lead,marronelawfirmllc,Low Priority
+"Mattiacci Law, LLC - Philadelphia Personal Injury Lawyers",https://jminjurylawyer.com/,Greater Philadelphia,12159146919,John,Mattiacci,Owner,john@mattiaccilaw.com,2,True,9,High Quality Lead,mattiaccilawllcphiladelphiapersonalinjurylawyers,Low Priority
+"Kwartler Manus, LLC",https://www.kminjurylawyers.com/,"Pennsylvania, US",12674575570,David,Kwartler,Partner,davidkwartler@gmail.com,2,True,9,High Quality Lead,kwartlermanusllc,Low Priority
+Wieand Law Firm LLC,https://www.wieandlaw.com/,"Pennsylvania, US",12674438487,Brent,Wieand,Owner/Attorney,brentallenwieand@yahoo.com,2,True,9,High Quality Lead,wieandlawfirmllc,Low Priority
+Trapani Law Firm,https://ltlaw.com/,Greater Philadelphia,16125627487,Matthew,Trapani,Attorney/Founder,traplaxllc@gmail.com,2,True,9,High Quality Lead,trapanilawfirm,Low Priority
+The Orloski Law Firm,https://www.orloskilaw.com/,"Pennsylvania, US",16104332363,Richard,Orloski,Owner,orloskilaw@gmail.com,2,True,9,High Quality Lead,theorloskilawfirm,Low Priority
+Wapner Newman Personal Injury and Medical Malpractice Lawyers,https://www.wapnernewman.com/,Greater Philadelphia,18566739746,Jarad,Silverstein,Partner/Chair,jsilverstein@wapnernewman.com,2,True,9,High Quality Lead,wapnernewmanpersonalinjuryandmedicalmalpracticelawyers,Low Priority
+TopDog Law Personal Injury Lawyers - Philadelphia Office,https://topdoglaw.com/,"Arizona, US",16108640342,James,Helm,Owner,james.helm@topdoglaw.com,2,True,9,High Quality Lead,topdoglawpersonalinjurylawyersphiladelphiaoffice,Low Priority
+Reiff Law Firm - Philadelphia Personal Injury & Car Accident Attorneys,https://www.reifflawfirm.com/,"Pennsylvania, US",12153706696,Jeffery,M.Reiff,Founding Partner,jmreiff@reifflawfirm.com,2,True,9,High Quality Lead,reifflawfirmphiladelphiapersonalinjurycaraccidentattorneys,Low Priority
+The Rothenberg Law Firm LLP,https://injurylawyer.com/locations/,"Pennsylvania, US",12159151700,allen,Rothenberg,Founder,allen@injurylawyer.com,2,True,9,High Quality Lead,therothenberglawfirmllp,Low Priority
+"The Weitz Firm, LLC",https://www.theweitzfirm.com/,Greater Philadelphia,16108642798,Eric,Weitz,Founder/Attorney,eweitz@pajustice.org,2,True,9,High Quality Lead,theweitzfirmllc,Low Priority
