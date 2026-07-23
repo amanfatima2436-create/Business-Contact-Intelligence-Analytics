@@ -630,3 +630,29 @@ plot_contact_information_coverage(data)
 print("\nGenerating Data Enrichment Priority Chart...")
 
 plot_enrichment_priority_distribution(data)
+
+# ==============================
+# Save Data to SQLite Database
+# ==============================
+
+import sqlite3
+
+print("\nSaving data to SQLite database...")
+
+# Connect to SQLite database
+conn = sqlite3.connect(
+    "database/business_contacts.db"
+)
+
+# Save cleaned and analyzed data
+data.to_sql(
+    "business_contacts",
+    conn,
+    if_exists="replace",
+    index=False
+)
+
+# Close database connection
+conn.close()
+
+print("Data successfully saved to SQLite database.")
