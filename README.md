@@ -1,4 +1,6 @@
-# Business Contact Intelligence Analytics
+# 📊 Business Contact Intelligence Analytics
+
+![Dashboard Preview](dashboard/business-contact-intelligence-dashboard.png)
 
 ## Project Overview
 
