@@ -216,12 +216,15 @@ Business_Contact_Intelligence_Analytics
 
 * Python
 * Pandas
+* SQLite
+* SQL
 * Matplotlib
 * Excel
 * CSV
 * Data Cleaning
 * Data Analysis
 * Data Visualization
+* Dashboard Development
 
 ---
 
@@ -315,7 +318,7 @@ Potential future improvements include:
 * LinkedIn profile enrichment
 * Automated duplicate company matching
 * CRM integration
-* Interactive Streamlit dashboard
+* Interactive business intelligence dashboard
 * Automated data refresh pipelines
 * Lead scoring optimization using machine learning
 
@@ -340,6 +343,32 @@ Skills demonstrated in this project:
 * Business Intelligence
 
 ---
+
+---
+
+# 📊 Executive Dashboard
+
+The project includes a professional executive dashboard designed to transform business contact data into meaningful visual insights for business decision-making.
+
+## Dashboard Features
+
+- Executive KPI Overview
+- Lead Quality Distribution
+- Contact Information Coverage
+- Enrichment Priority Analysis
+- Seniority Distribution
+- Contact Completeness
+- Company Contact Overview
+
+## Dashboard Preview
+
+![Business Contact Intelligence Dashboard](dashboard/business-contact-intelligence-dashboard.png)
+
+## Full Dashboard
+
+The complete dashboard is available here:
+
+`dashboard/Business_Contact_Intelligence_Dashboard.pdf`
 
 ## Project Status
 
