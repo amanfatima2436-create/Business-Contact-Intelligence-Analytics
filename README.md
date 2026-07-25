@@ -179,8 +179,15 @@ Business_Contact_Intelligence_Analytics
 │
 ├── data
 │   ├── raw
-│   ├── cleaned
 │   └── processed
+│
+├── database
+│   └── business_contacts.db
+│
+├── sql
+│   ├── basic_metrics.sql
+│   ├── contact_quality_analysis.sql
+│   └── lead_quality_analysis.sql
 │
 ├── src
 │   ├── data_loading
@@ -194,20 +201,16 @@ Business_Contact_Intelligence_Analytics
 │   │
 │   └── visualization
 │       ├── visualize_data.py
-│       └── charts
+│       └── Charts
 │
 ├── dashboard
 │   ├── dashboard.py
+│   ├── business-contact-intelligence-dashboard.png
+│   ├── business-contact-intelligence-dashboard.pdf
 │   └── charts
 │
 ├── reports
 │   └── business_insights.md
-│
-├── screenshots
-├── docs
-├── notebooks
-├── sql
-└── tests
 ```
 
 ---
@@ -363,15 +366,14 @@ The project includes a professional executive dashboard designed to transform bu
 ## Dashboard Preview
 
 ![Business Contact Intelligence Dashboard](dashboard/business-contact-intelligence-dashboard.png)
+### Dashboard Files
 
-## Full Dashboard
+📄 [View Executive Dashboard (PDF)](dashboard/business-contact-intelligence-dashboard.pdf)
 
-The complete dashboard is available here:
-
-`dashboard/Business_Contact_Intelligence_Dashboard.pdf`
+🖼️ [View Dashboard Image (PNG)](dashboard/business-contact-intelligence-dashboard.png)
 
 ## Project Status
 
-**Completed**
+✅ Completed
 
-This project demonstrates an end-to-end business contact data analytics workflow, from raw dataset processing to analytical insights, visualizations, and dashboard reporting.
+This project demonstrates an end-to-end Business Contact Intelligence Analytics solution, including data cleaning, exploratory analysis, SQL analytics, SQLite database integration, executive dashboard development, and business reporting.
